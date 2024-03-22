@@ -1,0 +1,6 @@
+INSERT INTO celulares (name, marca, created_at) VALUES ('S21', 'Samsung', GETDATE())
+INSERT INTO celulares (name, marca, created_at) VALUES ('S22', 'Samsung', GETDATE())
+INSERT INTO celulares (name, marca, created_at) VALUES ('S23', 'Samsung', GETDATE())
+INSERT INTO celulares (name, marca, created_at) VALUES ('Iphone 14', 'Apple', GETDATE())
+INSERT INTO celulares (name, marca, created_at) VALUES ('Iphone 15', 'Apple', GETDATE())
+INSERT INTO celulares (name, marca, created_at) VALUES ('Mi', 'Xiaomi', GETDATE())
